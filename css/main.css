@@ -1,0 +1,37 @@
+body {
+    margin:0 auto;
+    font-size: 2rem;
+    background-color:rgb(216, 155, 235);
+  }
+  
+  .bar{
+    list-style-type: none;
+    display: flex;
+  }
+
+  .text-link {
+    color:white;
+    text-decoration:none;
+    text-transform: uppercase;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .text-link:hover {
+    color: #FF00BF;
+  }
+  
+  header {
+    width:100%;
+    top:45px;
+  }
+  .services{
+    background-color:#76278F;
+    color: #fff;
+    padding: 100px;
+  }
+  footer{
+    color: #fff;
+    text-align: center;
+  }
+  
