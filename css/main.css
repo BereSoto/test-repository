@@ -45,3 +45,10 @@ body {
     text-align: center;
   }
   
+  .contenedor-saludo{
+    background-color: blueviolet;
+  }
+
+  .saludo{
+   text-align: center;
+  }
