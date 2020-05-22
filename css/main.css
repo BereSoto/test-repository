@@ -18,7 +18,7 @@ body {
   }
 
   .text-link:hover {
-    color: #FF00BF;
+    color: ;
   }
   
   header {
@@ -26,12 +26,12 @@ body {
     top:45px;
   }
   .services{
-    background-color:#76278F;
-    color: #fff;
+    background-color:black;
+    color: ##AC58FA;
     padding: 100px;
   }
   footer{
-    color: #fff;
+    color: black;
     text-align: center;
   }
   
