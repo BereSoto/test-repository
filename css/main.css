@@ -1,7 +1,9 @@
 body {
     margin:0 auto;
     font-size: 2rem;
+
     background-color:black;
+
   }
   
   .bar{
@@ -18,7 +20,8 @@ body {
   }
 
   .text-link:hover {
-    color: ;
+
+    color: black;
   }
   
   header {
@@ -27,11 +30,18 @@ body {
   }
   .services{
     background-color:black;
+
+  
+  }
+  footer{
+ 
+
     color: ##AC58FA;
     padding: 100px;
   }
   footer{
     color: black;
+
     text-align: center;
   }
   
